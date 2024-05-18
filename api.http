@@ -1,0 +1,35 @@
+### Subir Pelicula
+POST http://localhost:3000/movies
+Content-Type: application/json
+
+{
+  "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b5",
+  "title": "The Tilins",
+  "year": 1995,
+  "director": "David",
+  "duration": 120,
+  "poster": "https://i.pinimg.com/originals/7e/37/b9/7e37b994b613e94cba64f307b1983e39.jpg",
+  "genre": ["Biography", "Drama"],
+  "rate": 0
+}
+### Actualizar pelicula
+PATCH http://localhost:3000/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
+Content-Type: application/json
+
+{
+  "year": 1995,
+  "rate": 5
+}
+
+
+### Obtener peliculas
+
+GET http://localhost:3000/movies
+
+### Obtener pelicula por id
+
+GET http://localhost:3000/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
+
+### Eliminar pelicula
+
+DELETE http://localhost:3000/movies/4b404547-2ef6-4dd5-9682-ce93e147dd59
