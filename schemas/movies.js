@@ -32,6 +32,16 @@ const movieSchema = z.object({
 			}
 		)
 	),
+	description: z.string().min(10),
+	type: z.enum(['movie', 'series', 'miniserie'], {
+		required_error: 'Type is required',
+		invalid_type_error: 'Type must be a string',
+	}
+	),
+	age: z.enum(['all', '7', '12', '16', '18'], {
+		required_error: 'Age is required',
+		invalid_type_error: 'Age must be a string',
+	}),
 })
 
 
