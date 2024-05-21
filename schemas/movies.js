@@ -42,6 +42,9 @@ const movieSchema = z.object({
 		required_error: 'Age is required',
 		invalid_type_error: 'Age must be a string',
 	}),
+	trailer: z.string().url({
+		message: 'Trailer must be a valid URL',
+	}),
 })
 
 
