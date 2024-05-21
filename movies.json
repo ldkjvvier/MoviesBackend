@@ -10,7 +10,8 @@
     "rate": 9.3,
     "description": "A man imprisoned for a crime he didn't commit forms a lasting bond with another inmate and finds a unique way to escape.",
     "type": "movie",
-    "age": 16
+    "age": 16,
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
   },
   {
     "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
@@ -23,7 +24,8 @@
     "rate": 9.0,
     "description": "Batman faces the Joker, a criminal mastermind who seeks to undermine Gotham's societal structures.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
   },
   {
     "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
@@ -36,7 +38,8 @@
     "rate": 8.8,
     "description": "A skilled thief uses dream-sharing technology to infiltrate and extract secrets from people's subconscious.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
   },
   {
     "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
@@ -49,7 +52,8 @@
     "rate": 8.9,
     "description": "An intertwining of stories involving two hitmen, a boxer, a gangster's wife, and a pair of diner bandits.",
     "type": "movie",
-    "age": 18
+    "age": 18,
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
   },
   {
     "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
@@ -62,7 +66,8 @@
     "rate": 8.8,
     "description": "A man with a low IQ recounts his extraordinary life, impacting key historical events and finding love.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
   },
   {
     "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
@@ -75,7 +80,8 @@
     "rate": 8.5,
     "description": "A betrayed Roman general fights his way back as a gladiator to seek revenge against the corrupt emperor.",
     "type": "movie",
-    "age": 16
+    "age": 16,
+    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
   },
   {
     "id": "c906673b-3948-4402-ac7f-73ac3a9e3105",
@@ -88,7 +94,8 @@
     "rate": 8.7,
     "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
     "type": "movie",
-    "age": 16
+    "age": 16,
+    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
   },
   {
     "id": "b6e03689-cccd-478e-8565-d92f40813b13",
@@ -101,7 +108,8 @@
     "rate": 8.6,
     "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
   },
   {
     "id": "aa391090-b938-42eb-b520-86ea0aa3917b",
@@ -114,7 +122,8 @@
     "rate": 8.9,
     "description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom to destroy the One Ring.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
   },
   {
     "id": "2e6900e2-0b48-4fb6-ad48-09c7086e54fe",
@@ -127,7 +136,8 @@
     "rate": 8.5,
     "description": "A young lion prince flees his kingdom after the murder of his father, only to learn the true meaning of responsibility and bravery.",
     "type": "movie",
-    "age": 7
+    "age": 7,
+    "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
   },
   {
     "id": "04986507-b3ed-442c-8ae7-4c5df804f896",
@@ -140,7 +150,8 @@
     "rate": 8.0,
     "description": "Earth's mightiest heroes must come together and learn to fight as a team to stop the mischievous Loki and his alien army.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=4mwtDHovB3w"
   },
   {
     "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
@@ -153,7 +164,8 @@
     "rate": 8.1,
     "description": "A theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA"
   },
   {
     "id": "ccf36f2e-8566-47f7-912d-9f4647250bc7",
@@ -166,7 +178,8 @@
     "rate": 7.8,
     "description": "A young couple's forbidden love unfolds during the ill-fated maiden voyage of the R.M.S. Titanic.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=2e-eXJ6HgkQ"
   },
   {
     "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b8",
@@ -179,7 +192,8 @@
     "rate": 7.7,
     "description": "The story of how Facebook was founded, and the legal battles that followed its initial success.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4"
   },
   {
     "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
@@ -192,6 +206,7 @@
     "rate": 7.8,
     "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
     "type": "movie",
-    "age": 12
+    "age": 12,
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
   }
 ]
