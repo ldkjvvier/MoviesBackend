@@ -45,6 +45,7 @@ const movieSchema = z.object({
 	trailer: z.string().url({
 		message: 'Trailer must be a valid URL',
 	}),
+	createdAt: z.date().default(() => new Date()),
 })
 
 

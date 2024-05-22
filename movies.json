@@ -11,7 +11,8 @@
     "description": "A man imprisoned for a crime he didn't commit forms a lasting bond with another inmate and finds a unique way to escape.",
     "type": "movie",
     "age": 16,
-    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "created_at": "2022-02-22T14:00:00.000Z"
   },
   {
     "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
@@ -25,7 +26,8 @@
     "description": "Batman faces the Joker, a criminal mastermind who seeks to undermine Gotham's societal structures.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "created_at": "2023-12-15T14:00:00.000Z"
   },
   {
     "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
@@ -39,7 +41,8 @@
     "description": "A skilled thief uses dream-sharing technology to infiltrate and extract secrets from people's subconscious.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "created_at": "2023-11-01T14:00:00.000Z"
   },
   {
     "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
@@ -53,7 +56,8 @@
     "description": "An intertwining of stories involving two hitmen, a boxer, a gangster's wife, and a pair of diner bandits.",
     "type": "movie",
     "age": 18,
-    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "created_at": "2023-05-10T14:00:00.000Z"
   },
   {
     "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
@@ -67,7 +71,8 @@
     "description": "A man with a low IQ recounts his extraordinary life, impacting key historical events and finding love.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "created_at": "2023-08-20T14:00:00.000Z"
   },
   {
     "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
@@ -81,7 +86,8 @@
     "description": "A betrayed Roman general fights his way back as a gladiator to seek revenge against the corrupt emperor.",
     "type": "movie",
     "age": 16,
-    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE",
+    "created_at": "2024-02-01T14:00:00.000Z"
   },
   {
     "id": "c906673b-3948-4402-ac7f-73ac3a9e3105",
@@ -95,7 +101,8 @@
     "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
     "type": "movie",
     "age": 16,
-    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "created_at": "2024-01-10T14:00:00.000Z"
   },
   {
     "id": "b6e03689-cccd-478e-8565-d92f40813b13",
@@ -109,7 +116,8 @@
     "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "created_at": "2023-09-15T14:00:00.000Z"
   },
   {
     "id": "aa391090-b938-42eb-b520-86ea0aa3917b",
@@ -123,7 +131,8 @@
     "description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom to destroy the One Ring.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+    "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+    "created_at": "2023-07-25T14:00:00.000Z"
   },
   {
     "id": "2e6900e2-0b48-4fb6-ad48-09c7086e54fe",
@@ -137,7 +146,8 @@
     "description": "A young lion prince flees his kingdom after the murder of his father, only to learn the true meaning of responsibility and bravery.",
     "type": "movie",
     "age": 7,
-    "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
+    "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY",
+    "created_at": "2022-05-05T14:00:00.000Z"
   },
   {
     "id": "04986507-b3ed-442c-8ae7-4c5df804f896",
@@ -151,7 +161,8 @@
     "description": "Earth's mightiest heroes must come together and learn to fight as a team to stop the mischievous Loki and his alien army.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=4mwtDHovB3w"
+    "trailer": "https://www.youtube.com/watch?v=4mwtDHovB3w",
+    "created_at": "2024-03-01T14:00:00.000Z"
   },
   {
     "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
@@ -165,7 +176,8 @@
     "description": "A theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA"
+    "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA",
+    "created_at": "2022-12-30T14:00:00.000Z"
   },
   {
     "id": "ccf36f2e-8566-47f7-912d-9f4647250bc7",
@@ -179,7 +191,8 @@
     "description": "A young couple's forbidden love unfolds during the ill-fated maiden voyage of the R.M.S. Titanic.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=2e-eXJ6HgkQ"
+    "trailer": "https://www.youtube.com/watch?v=2e-eXJ6HgkQ",
+    "created_at": "2023-04-15T14:00:00.000Z"
   },
   {
     "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b8",
@@ -193,7 +206,8 @@
     "description": "The story of how Facebook was founded, and the legal battles that followed its initial success.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4"
+    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4",
+    "created_at": "2023-10-05T14:00:00.000Z"
   },
   {
     "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
@@ -207,6 +221,98 @@
     "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
     "type": "movie",
     "age": 12,
-    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "created_at": "2024-03-20T14:00:00.000Z"
+  },
+    {
+    "id": "4f2d25dc-6e9d-4bb3-97d6-0e8f50cbf36a",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": ["Drama"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "duration": 142,
+    "age": "R",
+    "type": "movie",
+    "created_at": "1994-09-10T00:00:00Z"
+  },
+  {
+    "id": "b5e359b2-8a1b-4c32-b251-7da9c5bd77b6",
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": ["Crime", "Drama"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+    "duration": 175,
+    "age": "R",
+    "type": "movie",
+    "created_at": "1972-03-15T00:00:00Z"
+  },
+  {
+    "id": "ce023d6d-c150-43c6-9fe7-fa3c603783b8",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "duration": 152,
+    "age": "PG-13",
+    "type": "movie",
+    "created_at": "2008-07-14T00:00:00Z"
+  },
+  {
+    "id": "49f6d01d-f597-4766-961a-63df7880b19d",
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "duration": 148,
+    "age": "PG-13",
+    "type": "movie",
+    "created_at": "2010-07-16T00:00:00Z"
+  },
+  {
+    "id": "b80a0983-8723-4e42-a736-8e01861d4de4",
+    "title": "102 Dalmatians",
+    "year": 2000,
+    "genre": ["Comedy", "Family", "Crime"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fe/102_dalmatians_poster.jpg",
+    "description": "102 Dalmatians is a 2000 American crime comedy film directed by Kevin Lima and produced by Edward S. Feldman and Walt Disney Pictures. The sequel to the 1996 film 101 Dalmatians, a live-action remake of the 1961 Disney animated film of the same name, it stars Glenn Close reprising her role as Cruella de Vil as she attempts to steal puppies for her \"grandest\" fur coat yet. Glenn Close and Tim McInnerny were the only two actors from the 1996 film to return for the sequel. The film received generally negative reviews from critics and was unable to achieve the box office success of its predecessor, although the film was nominated for the Academy Award for Best Costume Design.",
+    "duration": 0,
+    "age": "",
+    "type": "movie",
+    "created_at": "2024-05-22T00:00:00Z"
+  },
+  {
+    "id": "abb7b53e-49db-451b-af0d-d3b03a085d7f",
+    "title": "28 Days",
+    "year": 2000,
+    "genre": ["Drama", "Comedy"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/28_Days_Poster.jpg",
+    "description": "28 Days is a 2000 American comedy-drama film directed by Betty Thomas and written by Susannah Grant. Sandra Bullock stars as Gwen Cummings, a newspaper columnist obliged to enter rehabilitation for alcoholism. The film costars Viggo Mortensen, Dominic West, Elizabeth Perkins, Azura Skye, Steve Buscemi, and Diane Ladd.",
+    "duration": 0,
+    "age": "",
+    "type": "movie",
+    "created_at": "2024-05-22T00:00:00Z"
+  },
+  {
+    "id": "a76fc129-5952-4d2b-8ac9-d12d865b7084",
+    "title": "3 Strikes",
+    "year": 2000,
+    "genre": ["Comedy"],
+    "rate": 0,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/3_Strikes_Poster.jpg",
+    "description": "3 Strikes is a 2000 American comedy film written and directed by DJ Pooh, and starring Brian Hooks, N'Bushe Wright, Faizon Love and David Alan Grier. Despite some commercial success, it was negatively received by critics. The title refers to California's habitual offender law, whereby three convictions confer an automatic life sentence.",
+    "duration": 0,
+    "age": "",
+    "type": "movie",
+    "created_at": "2024-05-22T00:00:00Z"
   }
 ]
