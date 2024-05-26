@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3768f956-c892-46b6-9f9c-b3e7725ae03d",
+    "name": "top_drama",
+    "description": "Top Drama",
+    "movies": []
+  },
+  {
+    "id": "83167052-55a0-4d71-8189-e4c33d3343fd",
+    "name": "recently_added",
+    "description": "Recently Added",
+    "movies": []
+  },
+  {
+    "id": "309bb6f6-2e27-4cb9-bc53-a6da3eb18777",
+    "name": "trending",
+    "description": "Trending Now",
+    "movies": []
+  },
+  {
+    "id": "2e891ac8-223c-4d02-aee6-15099226a7d6",
+    "name": "animated",
+    "description": "Animated Movies",
+    "movies": []
+  }
+]
