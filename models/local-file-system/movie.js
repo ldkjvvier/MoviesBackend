@@ -5,16 +5,15 @@ const movies = readJSON('./movies.json')
 export class MovieModel {
 	static async getAll({ genre }) {
 		if (genre) {
-			return movies.filter(
-				(movie) => movie.genre.toLowerCase() === genre.toLowerCase()
+			const filteredMoves = movies.filter((movie) =>
+				movie.genre.some(
+					(g) => g.toLowerCase() === genre.toLowerCase()
+				)
 			)
+			return filteredMoves
 		}
+		if (movies.length === 0) return false
 		return movies
-	}
-
-	static async getById({ id }) {
-		const movie = movies.find((movie) => movie.id === id)
-		return movie
 	}
 
 	static async create({ data }) {
