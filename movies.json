@@ -235,6 +235,7 @@
     "duration": 142,
     "age": "R",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
     "created_at": "1994-09-10T00:00:00Z"
   },
   {
@@ -248,6 +249,7 @@
     "duration": 175,
     "age": "R",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
     "created_at": "1972-03-15T00:00:00Z"
   },
   {
@@ -261,6 +263,7 @@
     "duration": 152,
     "age": "PG-13",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
     "created_at": "2008-07-14T00:00:00Z"
   },
   {
@@ -274,19 +277,21 @@
     "duration": 148,
     "age": "PG-13",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
     "created_at": "2010-07-16T00:00:00Z"
   },
   {
     "id": "b80a0983-8723-4e42-a736-8e01861d4de4",
     "title": "102 Dalmatians",
     "year": 2000,
-    "genre": ["Comedy", "Family", "Crime"],
+    "genre": ["Comedy", "Family", "Crime","Animation"],
     "rate": 0,
     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fe/102_dalmatians_poster.jpg",
     "description": "102 Dalmatians is a 2000 American crime comedy film directed by Kevin Lima and produced by Edward S. Feldman and Walt Disney Pictures. The sequel to the 1996 film 101 Dalmatians, a live-action remake of the 1961 Disney animated film of the same name, it stars Glenn Close reprising her role as Cruella de Vil as she attempts to steal puppies for her \"grandest\" fur coat yet. Glenn Close and Tim McInnerny were the only two actors from the 1996 film to return for the sequel. The film received generally negative reviews from critics and was unable to achieve the box office success of its predecessor, although the film was nominated for the Academy Award for Best Costume Design.",
     "duration": 0,
     "age": "",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=3jHdYv8f7pA",
     "created_at": "2024-05-22T00:00:00Z"
   },
   {
@@ -300,6 +305,7 @@
     "duration": 0,
     "age": "",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=3jHdYv8f7pA",
     "created_at": "2024-05-22T00:00:00Z"
   },
   {
@@ -313,6 +319,7 @@
     "duration": 0,
     "age": "",
     "type": "movie",
+    "trailer": "https://www.youtube.com/watch?v=3jHdYv8f7pA",
     "created_at": "2024-05-22T00:00:00Z"
   }
 ]
