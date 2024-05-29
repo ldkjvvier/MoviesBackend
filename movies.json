@@ -388,7 +388,7 @@
     "year": 2024,
     "director": "John Musker, Ron Clements",
     "duration": 115,
-    "poster": "https://pics.filmaffinity.com/moana_2-405821124-large.jpg",
+    "poster": "https://pics.filmaffinity.com/moana_2-895859826-large.jpg",
     "genre": ["Animation", "Adventure", "Fantasy"],
     "rate": 8.2,
     "description": "Moana returns to explore more of the ocean and discovers new islands and adventures.",
@@ -403,13 +403,13 @@
     "year": 2022,
     "director": "Parker Finn",
     "duration": 115,
-    "poster": "https://m.media-amazon.com/images/I/71J9Z6Z6J9L._AC_UY327_FMwebp_QL65_.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRkYjQ5NmMtOTQxYi00MzlkLThiMmQtODc1ZjRmMGY4NTc5XkEyXkFqcGdeQXVyMTUwMDQ4MzMw._V1_FMjpg_UX864_.jpg",
     "genre": ["Terror", "Mistery", "Suspense"],
     "rate": 6.5,
     "description": "A killer is on the loose, and it's up to a group of teens to solve the mystery before it's too late.",
     "type": "movie",
     "age": 16,
     "trailer": "https://www.youtube.com/watch?v=3jHdYv8f7pA",
-    "created_at": "2024-05-22T00:00:00Z"
+    "created_at": "2023-05-22T00:00:00Z"
   }
 ]
